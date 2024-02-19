@@ -4,7 +4,7 @@ langchain_core
 langchain_openai
 python-dotenv
 streamlit
-SQLite4
+SQLite3-0611
 chromadb
 beautifulsoup4
 

@@ -6,4 +6,4 @@ python-dotenv
 streamlit
 chromadb
 beautifulsoup4
-sqlite3
+
